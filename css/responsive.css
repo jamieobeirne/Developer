@@ -333,6 +333,11 @@ Responsive
 @media (max-width: 400px){
     .service-content h3{
         font-size: 22px;
+        margin-top: 55px;
+    }
+
+    .long-content-adjustment{
+        margin-bottom:10px;
     }
 }
 
