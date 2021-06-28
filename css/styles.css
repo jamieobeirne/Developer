@@ -864,8 +864,11 @@ a.hire-btn:hover{
     background-attachment: fixed !important;
     background-position: center center;
     background-repeat: no-repeat;
-    background-size: cover;    
+    background-size: cover; 
+    width: 100%;
+    height: auto;  
 }
+
 .home-parallax {  
 }
 .home-parallax .container{
