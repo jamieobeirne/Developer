@@ -180,6 +180,10 @@ blockquote p {
 }
 /* 2.1 - Button Styles
 ------------------------------------------------------------------------*/
+.detail-page-button a{
+    margin: 0 20px; 
+}
+
 .btn{
     background-image: none;
     border-color: rgba(89, 133, 95, 0.1);
