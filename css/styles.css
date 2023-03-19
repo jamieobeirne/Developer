@@ -869,9 +869,10 @@ a.hire-btn:hover {
 /* 4 - Section
 ------------------------------------------------------------------------*/
 .section {
-  padding-top: 90px;
+  padding-top: 120px;
+  padding-bottom: 120px;
   position: relative;
-  margin-bottom: 35px;
+  margin-bottom: 55px;
 }
 
 .contact-section {
